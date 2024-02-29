@@ -1,3 +1,3 @@
 # end-hunger
 
-GDSE Solution Challenge 2024
+GDSC Solution Challenge 2024
